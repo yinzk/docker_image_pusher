@@ -1,5 +1,3 @@
-bitnami/prometheus
-bitnami/grafana
 elasticsearch:6.7.0
 #支持私库
 #支持指定架构
