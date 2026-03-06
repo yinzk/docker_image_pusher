@@ -1,4 +1,4 @@
-ghcr.io/openclaw/openclaw
+docker.io/library/node:22-bookworm@sha2
 #支持私库
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
